@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Designer+%2F++Developer" alt="Typing SVG" /></a>
-</p>
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Parth&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Parth&theme=discord_old_blurple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=shindeparth&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shindeparth&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shindeparth&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Parth&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-
-![](https://visitcount.itsvg.in/api?id=shindeparth&icon=0&color=0)
+[![](https://visitcount.itsvg.in/api?id=Parth&icon=0&color=6)](https://visitcount.itsvg.in)
