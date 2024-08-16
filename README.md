@@ -17,12 +17,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Parth&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=Parth&theme=discord_old_blurple&hide_border=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shindeparth&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=shindeparth&theme=discord_old_blurple&hide_border=false)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shindeparth&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shindeparth&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Parth&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shindeparth&icon=0&color=6)](https://visitcount.itsvg.in)
